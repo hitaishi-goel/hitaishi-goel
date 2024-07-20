@@ -62,13 +62,11 @@ Developed a feature-rich website using **Next.js** and **React**, with **TypeScr
 - [Portfolio](https://hitaishi-portfolio.vercel.app/)
 
 <div align = 'center'>
-![hitaishi-goel's Stats](https://github-readme-stats.vercel.app/api?username=hitaishi-goel&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+  ![hitaishi-goel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitaishi-goel&theme=synthwave&hide_border=false)
 
+  ![hitaishi-goel's Stats](https://github-readme-stats.vercel.app/api?username=hitaishi-goel&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
 
-![hitaishi-goel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitaishi-goel&theme=synthwave&hide_border=true)
-
-![hitaishi-goel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaishi-goel&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
-
+  ![hitaishi-goel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaishi-goel&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 
