@@ -64,4 +64,4 @@ Developed a feature-rich website using **Next.js** and **React**, with **TypeScr
 
 Thanks for visiting my GitHub profile! Feel free to connect or reach out if you have any questions or opportunities for collaboration.
 
-![Coder GIF](https://media.giphy.com/media/JqJqYUpy2tStOgvc6p/giphy.gif)
+![Coder GIF]([https://media.giphy.com/media/JqJqYUpy2tStOgvc6p/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM3eWtzeHZjbjI3cjVmY2FsZm5xb2l4Y2FvcDI0a2tibzg1b3NiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif))
