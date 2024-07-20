@@ -61,14 +61,8 @@ Developed a feature-rich website using **Next.js** and **React**, with **TypeScr
 - [Email](mailto:hitaishigoelofficial@gmail.com)
 - [Portfolio](https://hitaishi-portfolio.vercel.app/)
 
-![Hitaishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitaishi-goel&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![hitaishi-goel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hitaishi-goel&theme=synthwave&hide_border=true)
 
-## 🌐 Socials
-
-- [LinkedIn](https://www.linkedin.com/in/hitaishi-goel-nitdelhi/)
-- [Medium](https://medium.com/@hitaishigoel) <!-- Add your Medium profile link if available -->
-- [GitHub](https://github.com/hitaishi-goel)
-- [Portfolio](https://hitaishi-portfolio.vercel.app/)
 
 Thanks for visiting my GitHub profile! Feel free to connect or reach out if you have any questions or opportunities for collaboration.
 
