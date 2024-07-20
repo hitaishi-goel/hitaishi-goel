@@ -1,6 +1,5 @@
-# Hitaishi Goel
+![github-header-image (1)](https://github.com/user-attachments/assets/947e48ec-1752-4438-9ee5-5991c750df8d)
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
 Hello!! My name is **Hitaishi Goel**, a dedicated Pre-Final Year Student pursuing a B.Tech in Electronics and Communication Engineering at **National Institute of Technology Delhi**. 
 
