@@ -25,28 +25,6 @@ Hello!! My name is **Hitaishi Goel**, a dedicated Pre-Final Year Student pursuin
 - Consistently ranked in the **top 3.25%** on LeetCode with a rating of **1680+** and a proven track record of solving **750+** challenging coding problems.
 - Secured a **rank 30** in the **CodeRush Competition**.
 
-## 📂 Projects
-
-### [Musicly](https://musicly-lemon.vercel.app/)
-Built a music app using **Next.js**, **React**, and **TypeScript**, providing a dynamic and responsive user experience. Utilized **Appwrite Cloud** for authentication and user song storage.
-
-### [AlgoTrace](https://algotrace.tech)
-Crafted a user-friendly platform for tracking Data Structures and Algorithms questions using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
-
-### [Articlyfy](https://articlify-henna.vercel.app/)
-Developed a feature-rich website using **Next.js** and **React**, with **TypeScript** for robustness and **Appwrite Cloud** for authentication and article storage.
-
-## 💼 Experience
-
-### Software Development Intern
-**Buffercode Pvt. Ltd.** | Noida, India | May 2024 - Present
-- Implementing AI/ML models for automated vulnerability detection, enhancing cybersecurity capabilities.
-- Focusing on improving cybersecurity measures by integrating machine learning algorithms for threat detection and prevention.
-
-### Web Development Intern
-**VSAT Pvt. Ltd.** | Remote | June 2023 - July 2023
-- Introduced innovative features to the company’s website, enriching user engagement and understanding in web development.
-- Effectively tackled complex challenges through collective expertise.
 
 ## 📈 Coding Profiles
 
